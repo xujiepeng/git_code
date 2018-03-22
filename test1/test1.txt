@@ -4,3 +4,4 @@ input test2
 input test3
 input test4
 input test5
+input test6
